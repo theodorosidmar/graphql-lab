@@ -1,0 +1,11 @@
+node_modules/
+.vscode
+.dockerignore
+.eslintrc.json
+.gitignore
+docker-compose.yml
+Dockerfile
+LICENSE
+package-lock.json
+README.md
+yarn.lock
